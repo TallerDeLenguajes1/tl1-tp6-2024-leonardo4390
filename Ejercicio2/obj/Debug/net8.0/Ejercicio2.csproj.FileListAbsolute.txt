@@ -1,0 +1,15 @@
+C:\Users\sabim\Escritorio\tl1-tp6-2024-leonardo4390\Ejercicio2\bin\Debug\net8.0\Ejercicio2.exe
+C:\Users\sabim\Escritorio\tl1-tp6-2024-leonardo4390\Ejercicio2\bin\Debug\net8.0\Ejercicio2.deps.json
+C:\Users\sabim\Escritorio\tl1-tp6-2024-leonardo4390\Ejercicio2\bin\Debug\net8.0\Ejercicio2.runtimeconfig.json
+C:\Users\sabim\Escritorio\tl1-tp6-2024-leonardo4390\Ejercicio2\bin\Debug\net8.0\Ejercicio2.dll
+C:\Users\sabim\Escritorio\tl1-tp6-2024-leonardo4390\Ejercicio2\bin\Debug\net8.0\Ejercicio2.pdb
+C:\Users\sabim\Escritorio\tl1-tp6-2024-leonardo4390\Ejercicio2\obj\Debug\net8.0\Ejercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabim\Escritorio\tl1-tp6-2024-leonardo4390\Ejercicio2\obj\Debug\net8.0\Ejercicio2.AssemblyInfoInputs.cache
+C:\Users\sabim\Escritorio\tl1-tp6-2024-leonardo4390\Ejercicio2\obj\Debug\net8.0\Ejercicio2.AssemblyInfo.cs
+C:\Users\sabim\Escritorio\tl1-tp6-2024-leonardo4390\Ejercicio2\obj\Debug\net8.0\Ejercicio2.csproj.CoreCompileInputs.cache
+C:\Users\sabim\Escritorio\tl1-tp6-2024-leonardo4390\Ejercicio2\obj\Debug\net8.0\Ejercicio2.sourcelink.json
+C:\Users\sabim\Escritorio\tl1-tp6-2024-leonardo4390\Ejercicio2\obj\Debug\net8.0\Ejercicio2.dll
+C:\Users\sabim\Escritorio\tl1-tp6-2024-leonardo4390\Ejercicio2\obj\Debug\net8.0\refint\Ejercicio2.dll
+C:\Users\sabim\Escritorio\tl1-tp6-2024-leonardo4390\Ejercicio2\obj\Debug\net8.0\Ejercicio2.pdb
+C:\Users\sabim\Escritorio\tl1-tp6-2024-leonardo4390\Ejercicio2\obj\Debug\net8.0\Ejercicio2.genruntimeconfig.cache
+C:\Users\sabim\Escritorio\tl1-tp6-2024-leonardo4390\Ejercicio2\obj\Debug\net8.0\ref\Ejercicio2.dll
